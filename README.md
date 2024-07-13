@@ -12,5 +12,6 @@ My name is **_Prabhsimran  singh_**.I studing in GNDC collage ludhiana.I am doin
 PASS
 #### IMAGE
 ![17208784246226377205087748749369](https://github.com/user-attachments/assets/9f9e9ce5-81cc-4a24-8bbe-f2fc1583a1e8)
+thats it
 
 
